@@ -25,9 +25,10 @@ This repository contains Python code for a Ping-Pong game implemented using the 
 1. Clone the repository:
 
    [git clone https://github.com/botzaifa/ping-pong-game.git](https://github.com/botzaifa/Ping-Pong.git)
-   cd ping-pong-game
 
-2. Install the required dependencies:
+   - cd game
+
+3. Install the required dependencies:
 
    pip install pygame
 
